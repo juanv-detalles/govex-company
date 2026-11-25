@@ -1,0 +1,2 @@
+{ "cleanUrls": true, "trailingSlash": false,
+  "rewrites": [ { "source": "/adm", "destination": "/adm/index.html" } ] }
