@@ -1,6 +1,4 @@
-// Pega aquí los datos de tu proyecto Supabase (Settings > API).
-// La clave "anon" es pública por diseño; la seguridad la da el esquema
 window.APP_CONFIG = {
   SUPABASE_URL: "https://supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_mz_gitT6Dk2ZEGSOfO5fpw_sfU1130M"
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpaXphZmJsbWFyZXBkc25tc2ZrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU2MTE4MjEsImV4cCI6MjExMTE4NzgyMX0.dZD_rWIR7I1bAD68pJTTjtc_pREpW9veDZX5WF76t0o"
 };
